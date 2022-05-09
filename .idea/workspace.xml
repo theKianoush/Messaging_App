@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ce3934-e3b2-49a3-b9e7-a98694d09656" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/message-app-frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SidebarChat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SidebarChat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/StateProvider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SidebarChat.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SidebarChat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SidebarChat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SidebarChat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/week1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -77,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652000770496</updated>
-      <workItem from="1652000774604" duration="9248000" />
+      <workItem from="1652000774604" duration="28588000" />
     </task>
     <servers />
   </component>

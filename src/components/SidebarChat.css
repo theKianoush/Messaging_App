@@ -5,6 +5,14 @@
     align-items: center; /*i added this here*/
     border-bottom: 2px solid #f6f6f6;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+
 .sidebarChat:hover{
     background-color: #ebebeb;
 }
